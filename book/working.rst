@@ -21,7 +21,7 @@ own database.
 Designing the application
 -------------------------
 
-Let's use a pretty simple design with a class each for projects, tasks and time
+Let's use a pretty simple design with a class for each projects, tasks and time
 bookings. A project can contain one or more tasks, a task can contain one or
 more time bookings. A booking is simply the time worked expressed in hours and a
 text description. That is all we need for now. The code for that could look like
